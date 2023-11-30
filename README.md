@@ -4,7 +4,7 @@ We will attempt to create a linear regression model to predict the price of a ho
 
 Our goal will be to create a linear regression model, train it on the data with the optimal parameters using a Grid Search, and then evaluate the capabilities of the model on a test set.
 
-Author: Kévin Bourdon
+Author: Kevin Bourdon
 
 ## Dependencies
 
@@ -30,5 +30,5 @@ Open "main.ipynb".
 
 ## Contact
 
-For questions or comments, please contact [Kévin Bourdon](mailto:kevin.bourdon.etu@univ-lille.fr). I would love
+For questions or comments, please contact [Kevin Bourdon](mailto:kevin.bourdon@kedgebs.com). I would love
 to hear from you.
